@@ -1,0 +1,14 @@
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\yahoo_get_symbol_price.exe.config
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\yahoo_get_symbol_price.exe
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\yahoo_get_symbol_price.pdb
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.csprojAssemblyReference.cache
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.Form1.resources
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.Properties.Resources.resources
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.csproj.GenerateResource.cache
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.csproj.CoreCompileInputs.cache
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.exe
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.pdb
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\HtmlAgilityPack.dll
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\HtmlAgilityPack.pdb
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\bin\Debug\HtmlAgilityPack.xml
+D:\my_projects\C-Sharp\yahoo_get_symbol_price\yahoo_get_symbol_price\obj\Debug\yahoo_get_symbol_price.csproj.CopyComplete
